@@ -1,0 +1,17 @@
+.blockquote.short-p {
+  width: 75%;
+  margin: 0 auto;
+}
+
+#about {
+  color: white;
+}
+
+#services {
+  background-color: #ac7e48;
+}
+
+.portfolio-item:hover .caption {
+  background-color: rgb(159,99,29);
+}
+
