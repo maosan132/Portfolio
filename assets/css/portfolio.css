@@ -15,3 +15,35 @@
   background-color: rgb(159,99,29);
 }
 
+.live-btn {
+  z-index: 10000;
+  top: 85%;
+  left: 14%;
+}
+
+.col-lg-6 {
+  margin-top: -38px;
+}
+
+.gify {
+  margin-top: 35px;
+}
+
+@media (max-width: 767px) {
+  .live-btn {
+    z-index: 10000;
+    top: 25%;
+    left: 7%;
+  }
+  
+  .col-lg-6 {
+    margin-top: -38px;
+  }
+  
+  .gify {
+    margin-top: 35px;
+  }
+  .caption-content {
+    margin-top: 90%;
+  }
+}
