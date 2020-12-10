@@ -2,7 +2,7 @@
 
 # Portfolio 2020
 
-> My portfolio of web developing works
+> My portfolio of some of my works in the area of developing.
 
 ![screenshot](./screenshot_portfolio.jpg)
 
